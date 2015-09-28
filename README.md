@@ -1,7 +1,7 @@
 # Fresh Job Board Models
 
 ## Description
-Create data models for your job board using Backbone.
+Create data models for your job board.
 
 
 ## Objectives
@@ -33,7 +33,7 @@ After completing this assignment, you be able to effectively use
 
 
 ## Normal Mode
-Using [draw.io](https://www.draw.io/) diagram out the data models for a job board application. You should have at least three models (maybe more) and each model should include:
+Using [draw.io](https://www.draw.io/) diagram out the data models for a [job board website](https://github.com/TIY-Austin-Front-End-Engineering/fresh-job-board-views). You should have at least three models (maybe more) and each model should include:
 
 * It's relationship to the other models (one to one, one to many, many to many, or no relationship)
 * The attributes in the model. Each attribute should include:
