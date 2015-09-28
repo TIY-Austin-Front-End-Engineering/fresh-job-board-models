@@ -1,0 +1,15 @@
+{
+    "name": "fresh-job-board-models",
+    "version": "0.0.1",
+    "title": "Fresh Job Board Models",
+    "description": "Create data models for your job board using Backbone.",
+    "difficultyModes": [
+        "Normal"
+    ],
+    "keywords": [
+        "Backbone",
+        "Data Models",
+        "JavaScript",
+        "Modeling"
+    ]
+}
